@@ -7,11 +7,11 @@ spec:
   description: ""
   desiredAgentImage: ""
   desiredAuthImage: ""
-  displayName: ekscc-test
+  displayName: ekscc-test-display-name
   dockerRootDir: /var/lib/docker
   eksConfig:
     amazonCredentialSecret: cattle-global-data:cc-kxfmx
-    displayName: ekscc-test
+    displayName: ekscc-test-cluster-name
     imported: false
     kmsKey: ""
     kubernetesVersion: "1.22"

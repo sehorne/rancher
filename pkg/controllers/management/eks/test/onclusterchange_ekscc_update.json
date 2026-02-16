@@ -3,7 +3,7 @@
   "kind": "EKSClusterConfig",
   "spec": {
     "amazonCredentialSecret": "cattle-global-data:cc-kxfmx",
-    "displayName": "eks-test",
+    "displayName": "eks-test-cluster-name",
     "imported": false,
     "kmsKey": "",
     "kubernetesVersion": "1.22",
